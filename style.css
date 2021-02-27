@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: rgb(80, 230, 43);
+    color:orangered;
+    font-family:cursive;
+}
+img{
+    height:250px;
+    width:250px;
+    border-radius:250px;
+}
+p{
+    color:dodgerblue;
+    font-size:30px;
+    font-family:cursive;
+}
